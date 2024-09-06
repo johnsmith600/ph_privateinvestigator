@@ -1,0 +1,35 @@
+# Ignore Lua bytecode files
+*.luac
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore specific directories
+cache/
+logs/
+temp/
